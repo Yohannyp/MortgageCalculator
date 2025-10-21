@@ -1,6 +1,12 @@
 # Mortgage Calculator Dashboard
 
-A modern, responsive mortgage calculator built with Next.js, React, and Tailwind CSS. Features real-time mortgage rate data from API Ninjas and comprehensive payment calculations.
+A modern, responsive mortgage calculator built with Next.js, React, and Tailwind CSS. Features real-time mortgage rate data from API Ninjas, comprehensive payment calculations, and an AI-powered chatbot assistant.
+
+🔗 **Live Demo:** [View on GitHub](https://github.com/Yohannyp/MortgageCalculator)
+
+## ⚠️ Important Security Note
+
+**Never commit your `.env` file to version control!** The `.env` file contains sensitive API keys and is already included in `.gitignore`. Always keep your API keys private and create your own `.env` file locally using the `.env.example` template.
 
 ## Features
 
